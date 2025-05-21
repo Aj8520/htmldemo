@@ -17,6 +17,25 @@ To get started with this project, follow these steps:
 3. **Create an HTML File**: Create a new HTML file (e.g., `index.html`) in the project directory.
 4. **Link the JavaScript File**: Include the `jewelloNavigation.js` file in your HTML file to enable navigation functionality.
 
+## Creating a New Project on GitLab
+
+To create a new project on GitLab, follow these steps:
+
+1. **Sign In**: Go to the GitLab website and sign in to your account.
+2. **Create a New Project**: Click on the "New Project" button on your dashboard.
+3. **Fill in Project Details**: Enter the project name, description, and visibility level (public or private).
+4. **Initialize the Repository**: You can choose to initialize the repository with a README file.
+5. **Push Local Repository**: After creating the project, follow the instructions provided by GitLab to push your local repository to GitLab using Git commands.
+
+## Displaying index.html through GitHub Pages
+
+To host the `index.html` file using GitHub Pages, follow these steps:
+
+1. **Create a GitHub Repository**: Go to GitHub and create a new repository for your project.
+2. **Push Your Code**: Use Git commands to push your local project files to the newly created GitHub repository.
+3. **Enable GitHub Pages**: Go to the repository settings, scroll down to the "GitHub Pages" section, and select the branch you want to use (usually `main` or `master`).
+4. **Access Your Page**: After enabling GitHub Pages, your `index.html` file will be accessible via a URL in the format `https://<username>.github.io/<repository-name>/`.
+
 ## Usage
 
 To use the navigation functions, you will need to call them from your HTML elements (e.g., buttons or links). Each function corresponds to a specific navigation action. For example, to navigate to the scheme section, you would call `navigateToScheme()`.

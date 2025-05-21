@@ -1,6 +1,8 @@
-# Web Page Design Guide
+# File: /jewelry-business-webpage/jewelry-business-webpage/docs/GUIDE.md
 
-Welcome to the Web Page Design Guide! This document is intended for users who are new to HTML and CSS. It will provide you with step-by-step instructions on how to create a basic web page that utilizes the navigation functions defined in the `jewelloNavigation.js` file.
+# Jewelry Business Web Page Design Guide
+
+Welcome to the Jewelry Business Web Page Design Guide! This document is intended for users who are new to HTML and CSS. It will provide you with step-by-step instructions on how to create a basic web page that utilizes the navigation functions defined in the `jewelloNavigation.js` file.
 
 ## Table of Contents
 1. Introduction to HTML
@@ -23,11 +25,11 @@ A basic HTML document consists of the following structure:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Web Page Title</title>
+    <title>Your Jewelry Business Title</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Welcome to My Web Page</h1>
+    <h1>Welcome to Our Jewelry Business</h1>
     <div id="user-name-display"></div>
     <nav>
         <ul>
@@ -92,11 +94,11 @@ Here’s a complete example of a simple web page that incorporates HTML, CSS, an
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Web Page</title>
+    <title>My Jewelry Business</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Welcome to My Web Page</h1>
+    <h1>Welcome to Our Jewelry Business</h1>
     <div id="user-name-display"></div>
     <nav>
         <ul>
