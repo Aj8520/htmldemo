@@ -16,9 +16,9 @@ Welcome to the Jewelry Business Web Page Design Guide! This document is intended
 HTML (HyperText Markup Language) is the standard language for creating web pages. It uses a series of elements to structure content on the page.
 
 **Recommended Video Tutorials to Learn HTML:**
-1. [HTML Tutorial for Beginners - 1 (CodeWithHarry)](https://youtu.be/HcOc7P5BMi4?si=ws4zplrYn0oXQDMC)
+1. [HTML Crash Course (Apna College)](https://youtu.be/HcOc7P5BMi4?si=ws4zplrYn0oXQDMC)
 2. [HTML Tutorial for Beginners - 2 (CodeWithHarry)](https://youtu.be/Ut4RpySLM6Y?si=q0Q-kLfLAHvvavpm)
-3. [HTML Crash Course (Apna College)](https://youtu.be/4dprtEzunIk?si=w9JiB5by79iOUrld)
+3. [HTML Tutorial for Beginners ](https://youtu.be/4dprtEzunIk?si=w9JiB5by79iOUrld)
 
 ## 2. Basic HTML Structure
 A basic HTML document consists of the following structure:
@@ -54,7 +54,7 @@ A basic HTML document consists of the following structure:
 CSS (Cascading Style Sheets) is used to style HTML elements. It allows you to change colors, fonts, layouts, and more.
 
 **Recommended Video Tutorial to Learn CSS:**
-1. [CSS Tutorial for Beginners (CodeWithHarry)](https://youtu.be/K1naz9wBwKU?si=L8MVi2pT17bsrHET)
+1. [CSS Tutorial for Beginners ](https://youtu.be/K1naz9wBwKU?si=L8MVi2pT17bsrHET)
 
 ## 4. Adding CSS to Your Web Page
 You can add CSS to your web page by creating a separate CSS file (e.g., `styles.css`) and linking it in the `<head>` section of your HTML document. Here’s a simple example of CSS:
