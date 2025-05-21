@@ -44,6 +44,10 @@ To use the navigation functions, you will need to call them from your HTML eleme
 
 For detailed instructions on how to create a basic web page using HTML and CSS, please refer to the guide located in the `docs/GUIDE.md` file.
 
+**Reference Project:**
+- [Raka Webpage GitHub Project](https://github.com/Aj8520/flutter-webpage)
+- [Live Webpage Example](https://aj8520.github.io/flutter-webpage/)
+
 ## Prerequisites
 
 - Basic understanding of HTML and CSS (refer to `docs/GUIDE.md` for a beginner-friendly guide).
