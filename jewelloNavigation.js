@@ -54,3 +54,7 @@ function navigateToScheme() {
     // Find the element by ID and set the text content
     document.getElementById("user-name-display").innerText = "Welcome, " + username;
 }
+function navigateToHomePage() {
+    Toaster.postMessage('navigateToHomePage');
+}
+
